@@ -1,0 +1,19 @@
+
+@charset "ISO-8859-1";
+
+
+
+
+
+
+.main-content {
+	margin-top: -14px;
+    margin-left: 250px;
+    transition: 0.5s;
+    padding: 20px;
+    display: flex;           /* Added this to enable flexbox */
+    flex-wrap: wrap;         /* This will allow the cards to wrap to the next line if they don't fit */
+    justify-content: center; /* This will center the cards in the main-content div */
+    align-items: center;     /* This will vertically align the cards in the center */
+}
+
