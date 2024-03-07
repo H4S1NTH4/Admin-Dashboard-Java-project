@@ -1,6 +1,6 @@
 package com.model;
 
-
+//Hi this is the second commit
 public class admin {
 	
 	private int id;
